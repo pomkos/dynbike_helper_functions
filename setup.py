@@ -8,7 +8,7 @@ with open('README.md') as readme_file:
 
 setup_args = dict(
     name='dynbike_helper_functions',
-    version='0.1.0',
+    version='0.1.4',
     description='A small package with collection of useful functions for the Dynamic Bike',
     long_description_content_type="text/markdown",
     long_description=README + '\n\n',
